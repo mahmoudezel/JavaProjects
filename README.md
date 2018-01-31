@@ -2,7 +2,7 @@
 This is some of java projects that i have been faced while learning java programming language
 
 #1 Average Array
-
+-------------------------------------------------------------------------------------------------------------------------------
 package com.company;
 
 import java.util.Scanner;
